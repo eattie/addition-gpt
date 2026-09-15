@@ -1,6 +1,6 @@
 # addition-gpt
 
-(REPO IS THE BLANK TEMPLATE SO ANYONE CAN DO THE PROJECT FOR FUN)
+(Repo is the blank project so anyone can do the implementation for fun)
 
 Build a GPT that learns integer addition, from scratch. A from-the-ground-up
 transformer implementation structured as a fill-in-the-blanks project with a
